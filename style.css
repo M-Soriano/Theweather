@@ -3,3 +3,8 @@ body {
   font-size: 16px;
   line-height: 1;
 }
+h1 {
+  background-color: aqua;
+  text-align: center;
+  
+}
